@@ -3,3 +3,4 @@ Amazon Pay plugin lets you easily integrate Amazon Pay with your nopCommerce Sto
 
 
 Theme can be purchased here: [https://www.nopdeveloper.com/amazon-pay-plugin-for-nopcommerce-440](https://www.nopdeveloper.com/amazon-pay-plugin-for-nopcommerce-440)
+![nopDeveloper - premiun nopCommerce plugin](https://www.nopdeveloper.com/images/thumbs/0000076_amazon-pay-plugin-for-nopcommerce-440.jpeg)
